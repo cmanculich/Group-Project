@@ -1,1 +1,1 @@
-hello
+This code will ask the user for his/her name, it will then ask for age.  Once both values are determined by user input, it will calculate the number of letters in the user's name.  Finally, it will print out the user's name and age, along with how many letters are in the name.
